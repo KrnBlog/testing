@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "name": "lerning-versal",
+  "description": "none",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "buils":"node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrnBlog/testing.git"
+  },
+  "keywords": [
+    "vercel"
+  ],
+  "author": "karanarora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KrnBlog/testing/issues"
+  },
+  "homepage": "https://github.com/KrnBlog/testing#readme"
 }
